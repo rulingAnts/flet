@@ -46,7 +46,7 @@ The following tools are currently in the planning or early development stages:
 
 ## 🤝 Contributing
 
-We welcome contributions from other developers and field linguists! If you have a bug fix, feature suggestion, or a new tool that fits the scope of LFET, please open an Issue or submit a Pull Request.
+We welcome contributions from other developers and field linguists! If you have a bug fix, feature suggestion, or a new tool that fits the scope of LFET, please open an Issue or submit a Pull Request. The same is true for any and all of these tools, even the ones with incomplete (or not-yet-existent) repositories.
 
 ***
 
