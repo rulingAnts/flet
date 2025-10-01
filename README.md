@@ -10,7 +10,7 @@ The goal of this repository is to bridge functional gaps between popular linguis
 | :--- | :--- | :--- | :--- |
 | **[Video Annotation Tool](https://github.com/rulingAnts/videoannotationtool/)** | `rulingAnts/videoannotationtool` | A desktop tool for easily recording video-prompted data (e.g., Max Planck kits). **Exports immediately ready for ELAN/SayMore (single WAV + click-separated entries).** | Python 3.11, Tkinter, Pydub |
 | **[FLEx Interlinear Copy Assistant](https://github.com/rulingAnts/flex-interlinear-copy)** | `rulingAnts/flex-interlinear-copy` | Streamlines conversion of Tab-Separated Value (TSV) interlinear text from FLEx/spreadsheets into publication-ready **LaTeX**, **XLingPaper XML**, and **HTML**. | Python, Tkinter, Pyperclip, XML, CSV |
-| **[Native Speaker FLEx Excel Importer](https://github.com/rulingAnts/FlexText-Excel-Import)** | `rulingAnts/FlexText-Excel-Import` | Facilitates text collection by allowing native speakers to transcribe and back-translate using an Excel template. **Converts Excel data to FLEx-ready FlexText.** | Python 3.8+, openpyxl, lxml |
+| **[Native-Speaker Excel Transcription/Back-Translation Tool](https://github.com/rulingAnts/FlexText-Excel-Import)** | `rulingAnts/FlexText-Excel-Import` | Facilitates text collection by allowing native speakers to transcribe and back-translate using an Excel template. **Converts Excel data to FLEx-ready FlexText.** | Python 3.8+, openpyxl, lxml |
 
 
 ## 💡 Planned Tools (Roadmap)
