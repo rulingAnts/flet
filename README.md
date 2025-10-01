@@ -9,6 +9,7 @@ The goal of this repository is to bridge functional gaps between popular linguis
 | Tool Name | Repository | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Video Annotation Tool](https://github.com/rulingAnts/videoannotationtool/)** | `rulingAnts/videoannotationtool` | A desktop tool for easily recording video-prompted data (e.g., Max Planck kits). **Exports immediately ready for ELAN/SayMore (single WAV + click-separated entries).** | Python 3.11, Tkinter, Pydub |
+| **[FLEx Interlinear Copy Assistant](https://github.com/rulingAnts/flex-interlinear-copy)** | `rulingAnts/flex-interlinear-copy` | Streamlines conversion of Tab-Separated Value (TSV) interlinear text from FLEx/spreadsheets into publication-ready **LaTeX**, **XLingPaper XML**, and **HTML**. | Python, Tkinter, Pyperclip, XML, CSV |
 
 ## 💡 Planned Tools (Roadmap)
 
