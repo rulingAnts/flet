@@ -40,6 +40,8 @@ The following tools are currently in the planning or early development stages:
 | FLEx TextChart to Excel Sheet Converter | TBD _(Actually this already exists but needs to include sentence and paragraph break borders and tags. Also needs a repository)_ | A simple app that converts FLEx Interlinear Text Chart XML to an Excel Spreadsheet (useful for color coding, print layout, extra note columns, etc) | Python, openpyxl, lxml |
 | Biblical Language to FLEx Interlinear Text Importer | TBD | An app that imports interlinear Biblical language source text (Greek, Hebrew, Aramaic) into FLEx Interlinear view for text charting. | Python, TBD |
 | Complex Concordance -> Multi-Examples Combined Text (FLEx) | TBD | A tool to take interlinear lines from a complex concordance search and generate a new combined interlinear text of multiple from these (while preserving the original reference in a note). | Python, FlexTools |
+| FLEx DB Dekereke Snapshot Export Tool | TBD | A tool to export a FLEx database with sound files into a Dekereke readable form so that the user can work in FLEx but use Dekereke's advanced acoustic analysis, tone sorting, and other features. | Python, FlexTools |
+| Ability to Sync Dekereke and FLEx data (distant future) | TBD | A way to sync FLEx and Dekereke data (for example between a phonologist and a syntactician or lexicographer working on different parts of a language project. | Python, FlexTools, Ollama Offline AI models |
 
 
 ## 🤝 Contributing
