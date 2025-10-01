@@ -1,2 +1,41 @@
-# flet
-Linguistic Fieldwork Extension Tools (LFET)
+# Linguistic Fieldwork Extension Tools (LFET)
+
+The **Linguistic Fieldwork Extension Tools (LFET)** project is a community-driven hub for developing high-utility, cross-platform tools designed to support and streamline the work of linguistic fieldworkers.
+
+The goal of this repository is to bridge functional gaps between popular linguistic software applications like **FieldWorks FLEx**, **ELAN**, **SayMore**, **Dekereke**, and **Phonology Assistant**, by providing lightweight, dedicated utilities for data collection, conversion, and crowdsourcing.
+
+## 🚀 Ready Tools
+
+| Tool Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Video Annotation Tool](https://github.com/rulingAnts/videoannotationtool/)** | `rulingAnts/videoannotationtool` | A desktop tool for easily recording video-prompted data (e.g., Max Planck kits). **Exports immediately ready for ELAN/SayMore (single WAV + click-separated entries).** | Python 3.11, Tkinter, Pydub |
+| **[QuickStart Android](https://github.com/rulingAnts/Quickstart_Android)** | `rulingAnts/Quickstart_Android` | A template for a simple Android app for crowdsourcing wordlist and basic text/audio collection from community members. | Android/Kotlin/Java |
+
+## 💡 Planned Tools (Roadmap)
+
+The following tools are currently in the planning or early development stages:
+
+| Tool Name | Category | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **FLEx Dekereke Snapshot Export** | Cross-Tool Integration | A utility to export a snapshot of **FieldWorks FLEx** data in a format suitable for use with advanced **Dekereke** features. | Python, XML |
+| **Phonology Assistant Bridge** | Cross-Tool Integration | Enables seamless data synchronization between **Phonology Assistant** and **Dekereke** for integrated phonological analysis. | Python, XML |
+
+## 🤝 Contributing
+
+We welcome contributions from other developers and field linguists! If you have a bug fix, feature suggestion, or a new tool that fits the scope of LFET, please open an Issue or submit a Pull Request.
+
+***
+
+## ⚖️ Licensing and Copyright
+
+### Documentation and Repository Structure
+
+The content of this central repository, including this **README.md** file, the Table of Contents, and the overall repository structure, is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+**Copyright © 2025 Seth Johnston.**
+
+You are free to share and adapt this documentation, provided you give appropriate credit.
+
+### Individual Tools (Code)
+
+**NOTE:** The source code and assets for the individual tools listed in the table above (e.g., `rulingAnts/videoannotationtool`) are hosted in their respective repositories and are governed by their own specific licenses. Please check the `LICENSE` file in each sub-project's repository for licensing details.
