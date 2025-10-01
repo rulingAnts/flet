@@ -14,6 +14,7 @@ The goal of this repository is to bridge functional gaps between popular linguis
 
 The following tools are currently in the planning or early development stages:
 | Tool Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
 | **[QuickStart Android](https://github.com/rulingAnts/Quickstart_Android)** | `rulingAnts/Quickstart_Android` | A template for a simple Android app for crowdsourcing wordlist and basic text/audio collection from community members. | Android/Kotlin/Java |
 
 
