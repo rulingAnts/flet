@@ -9,16 +9,13 @@ The goal of this repository is to bridge functional gaps between popular linguis
 | Tool Name | Repository | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Video Annotation Tool](https://github.com/rulingAnts/videoannotationtool/)** | `rulingAnts/videoannotationtool` | A desktop tool for easily recording video-prompted data (e.g., Max Planck kits). **Exports immediately ready for ELAN/SayMore (single WAV + click-separated entries).** | Python 3.11, Tkinter, Pydub |
-| **[QuickStart Android](https://github.com/rulingAnts/Quickstart_Android)** | `rulingAnts/Quickstart_Android` | A template for a simple Android app for crowdsourcing wordlist and basic text/audio collection from community members. | Android/Kotlin/Java |
 
 ## 💡 Planned Tools (Roadmap)
 
 The following tools are currently in the planning or early development stages:
+| Tool Name | Repository | Description | Tech Stack |
+| **[QuickStart Android](https://github.com/rulingAnts/Quickstart_Android)** | `rulingAnts/Quickstart_Android` | A template for a simple Android app for crowdsourcing wordlist and basic text/audio collection from community members. | Android/Kotlin/Java |
 
-| Tool Name | Category | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **FLEx Dekereke Snapshot Export** | Cross-Tool Integration | A utility to export a snapshot of **FieldWorks FLEx** data in a format suitable for use with advanced **Dekereke** features. | Python, XML |
-| **Phonology Assistant Bridge** | Cross-Tool Integration | Enables seamless data synchronization between **Phonology Assistant** and **Dekereke** for integrated phonological analysis. | Python, XML |
 
 ## 🤝 Contributing
 
