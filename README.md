@@ -2,7 +2,7 @@
 
 The **Linguistic Fieldwork Extension Tools (LFET)** project is a community-driven hub for developing high-utility, cross-platform tools designed to support and streamline the work of linguistic fieldworkers.
 
-The goal of this repository is to bridge functional gaps between popular linguistic software applications like **FieldWorks FLEx**, **ELAN**, **SayMore**, **Dekereke**, and **Phonology Assistant**, by providing lightweight, dedicated utilities for data collection, conversion, and crowdsourcing.
+The goal of this repository is to bridge functional gaps between popular linguistic software applications like [**FLEx**](https://software.sil.org/fieldworks/), [**ELAN**](https://archive.mpi.nl/tla/elan), [**SayMore**](https://software.sil.org/saymore/), [**Dekereke**](https://casali.canil.ca/Dekereke/), and [**Phonology Assistant**](https://software.sil.org/phonologyassistant/), by providing lightweight, dedicated utilities for data collection, conversion, and crowdsourcing.
 
 ## 🚀 Ready Tools
 
