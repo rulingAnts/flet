@@ -37,7 +37,7 @@ The following tools are currently in the planning or early development stages:
 | --- | --- | --- | --- |
 | **[QuickStart Android](https://github.com/rulingAnts/Quickstart_Android)** | `rulingAnts/Quickstart_Android` | A template for a simple Android app for crowdsourcing wordlist and basic text/audio collection from community members. | Android/Kotlin/Java |
 | Android Text Collection Tool | TBD | A simple Android App for collecting native text recordings, including verbal informed consent and metadata. | Android/Kotlin/Java |
-| FLEx TextChart to Excel Sheet Converter | TBD | A simple app that converts FLEx Interlinear Text Chart XML to an Excel Spreadsheet (useful for color coding, print layout, extra note columns, etc) | Python, openpyxl, lxml |
+| FLEx TextChart to Excel Sheet Converter | TBD _(Actually this already exists but needs to include sentence and paragraph break borders and tags. Also needs a repository)_ | A simple app that converts FLEx Interlinear Text Chart XML to an Excel Spreadsheet (useful for color coding, print layout, extra note columns, etc) | Python, openpyxl, lxml |
 | Biblical Language to FLEx Interlinear Text Importer | TBD | An app that imports interlinear Biblical language source text (Greek, Hebrew, Aramaic) into FLEx Interlinear view for text charting. | Python, TBD |
 | Complex Concordance -> Multi-Examples Combined Text (FLEx) | TBD | A tool to take interlinear lines from a complex concordance search and generate a new combined interlinear text of multiple from these (while preserving the original reference in a note). | Python, FlexTools |
 
