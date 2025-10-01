@@ -14,7 +14,7 @@ The goal of this repository is to bridge functional gaps between popular linguis
 | **[Oral Text Collection Web App](https://github.com/rulingAnts/online_recorder)** | `rulingAnts/online_recorder` | Facilitates text collection by allowing native speakers to use their web browsers to record native texts, this working prototype includes audio prompts in a minority language for informed consent and metadata. | HTML5/JavaScript, PHP, Google Apps Script |
 | **[OSE Interlinear Viewer](https://github.com/rulingAnts/ose-interlinear-viewer)** | `rulingAnts/ose-interlinear-viewer` | Extracts interlinear texts from a OneStory Editor project file and then displays or exports them in HTML or XLingPaper format. | HTML5/JavaScript, XSLT, Electron |
 
-## 🚀 Finished (But Not Yet Uploaded) Tools
+## 🚀 Finished (But Not Yet Fully Uploaded) Tools
 
 _These need GitHub repositories created with README, LICENSING, etc created. The code is usable and so is the portable EXE, just not uploaded yet. All are copyright (c) 2025 Seth Johnston with AGPL3.0 License. Portable EXE links are provided below for these, they are distributed as is with no warranty or guarantee of any kind. Source code for each to be uploaded to repositories soon._
 
