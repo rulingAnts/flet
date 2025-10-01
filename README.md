@@ -16,7 +16,7 @@ The goal of this repository is to bridge functional gaps between popular linguis
 
 ## 🚀 Finished (But Not Yet Fully Uploaded) Tools
 
-_These need GitHub repositories created with README, LICENSING, etc created. The code is usable and so is the portable EXE, just not uploaded yet. All are copyright (c) 2025 Seth Johnston with AGPL3.0 License. Portable EXE links are provided below for these, they are distributed as is with no warranty or guarantee of any kind. Source code for each to be uploaded to repositories soon._
+_These need GitHub repositories created with README, LICENSING, etc. The code is usable and so is the portable EXE, just not uploaded yet. All are copyright (c) 2025 Seth Johnston with AGPL3.0 License. Portable EXE links are provided below for these, they are distributed as is with no warranty or guarantee of any kind. Source code for each to be uploaded to repositories soon._
 
 #### Dekereke Tools
 1. **[Bulk Rename Files](https://drive.google.com/file/d/1mCK573e2e3hFYWs2w-zrPkD8-LZZFE9M/view?usp=sharing)** - Uses a CSV file with old and new file names to rename a bunch of files at once (useful for managing audio files).
