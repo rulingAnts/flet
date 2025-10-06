@@ -4,6 +4,9 @@ The **Field Linguistics Extension Tools (FLET)** project is a community-driven h
 
 The goal of this repository is to bridge functional gaps in a unified workflow between popular linguistic software applications like [**FLEx**](https://software.sil.org/fieldworks/), [**ELAN**](https://archive.mpi.nl/tla/elan), [**SayMore**](https://software.sil.org/saymore/), [**Dekereke**](https://casali.canil.ca/Dekereke/), and [**Phonology Assistant**](https://software.sil.org/phonologyassistant/), by providing lightweight, dedicated utilities for data collection, conversion, and crowdsourcing.
 
+I have updated your README section with the new entry for your FLEx XML Viewer.
+
+```markdown
 ## 🚀 Ready Tools
 
 | Tool Name | Repository | Description | Tech Stack |
@@ -13,6 +16,7 @@ The goal of this repository is to bridge functional gaps in a unified workflow b
 | **[Native-Speaker Excel Transcription/Back-Translation Tool](https://github.com/rulingAnts/FlexText-Excel-Import)** | `rulingAnts/FlexText-Excel-Import` | Facilitates text collection by allowing native speakers to transcribe and back-translate using an Excel template. **Converts Excel data to FLEx-ready FlexText.** | Python 3.8+, openpyxl, lxml |
 | **[Oral Text Collection Web App](https://github.com/rulingAnts/online_recorder)** | `rulingAnts/online_recorder` | Facilitates text collection by allowing native speakers to use their web browsers to record native texts, this working prototype includes audio prompts in a minority language for informed consent and metadata. | HTML5/JavaScript, PHP, Google Apps Script |
 | **[OSE Interlinear Viewer](https://github.com/rulingAnts/ose-interlinear-viewer)** | `rulingAnts/ose-interlinear-viewer` | Extracts interlinear texts from a OneStory Editor project file and then displays or exports them in HTML or XLingPaper format. | HTML5/JavaScript, XSLT, Electron |
+| **[FLEx XML Viewer](https://rulingants.github.io/flexml_display/)** | `rulingAnts/flexml_display` | A client-side web app for viewing, exploring, and exporting FieldWorks (FLEx) XML exports (Lists, Phonology, Wordforms) in a structured, readable format. **Runs entirely in your browser.** | HTML/JavaScript, XSLT |
 
 ## 🚀 Finished (But Not Yet Fully Uploaded) Tools
 
