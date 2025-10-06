@@ -4,9 +4,6 @@ The **Field Linguistics Extension Tools (FLET)** project is a community-driven h
 
 The goal of this repository is to bridge functional gaps in a unified workflow between popular linguistic software applications like [**FLEx**](https://software.sil.org/fieldworks/), [**ELAN**](https://archive.mpi.nl/tla/elan), [**SayMore**](https://software.sil.org/saymore/), [**Dekereke**](https://casali.canil.ca/Dekereke/), and [**Phonology Assistant**](https://software.sil.org/phonologyassistant/), by providing lightweight, dedicated utilities for data collection, conversion, and crowdsourcing.
 
-I have updated your README section with the new entry for your FLEx XML Viewer.
-
-```markdown
 ## 🚀 Ready Tools
 
 | Tool Name | Repository | Description | Tech Stack |
