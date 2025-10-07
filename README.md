@@ -15,6 +15,12 @@ The goal of this repository is to bridge functional gaps in a unified workflow b
 | **[OSE Interlinear Viewer](https://github.com/rulingAnts/ose-interlinear-viewer)** | `rulingAnts/ose-interlinear-viewer` | Extracts interlinear texts from a OneStory Editor project file and then displays or exports them in HTML or XLingPaper format. | HTML5/JavaScript, XSLT, Electron |
 | **[FLEx XML Viewer](https://github.com/rulingAnts/flexml_display)** | `rulingAnts/flexml_display` | A client-side web app for viewing, exploring, and exporting FieldWorks (FLEx) XML exports (Lists, Phonology, Wordforms) in a structured, readable format. **Runs entirely in your browser.** | HTML/JavaScript, XSLT |
 
+## 🚀 Partially Usable (but very unfinished) Tools
+
+| Tool Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Bulk Media File Manager]([https://github.com/rulingAnts/videoannotationtool/](https://github.com/rulingAnts/bulk_mediafile_manager))** | `rulingAnts/videoannotationtool` | A desktop tool for bulk operations on media files -- bulk copy with filename prefixes/suffixes, format conversion (in progress), and more. | Python 3.11, Tkinter, Pydub |
+
 ## 🚀 Finished (But Not Yet Fully Uploaded) Tools
 
 _These need GitHub repositories created with README, LICENSING, etc. The code is usable and so is the portable EXE, just not uploaded yet. All are copyright (c) 2025 Seth Johnston with AGPL3.0 License. Portable EXE links are provided below for these, they are distributed as is with no warranty or guarantee of any kind. Source code for each to be uploaded to repositories soon._
