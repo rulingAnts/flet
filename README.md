@@ -19,7 +19,7 @@ The goal of this repository is to bridge functional gaps in a unified workflow b
 
 | Tool Name | Repository | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Bulk Media File Manager]([https://github.com/rulingAnts/videoannotationtool/](https://github.com/rulingAnts/bulk_mediafile_manager))** | `rulingAnts/videoannotationtool` | A desktop tool for bulk operations on media files -- bulk copy with filename prefixes/suffixes, format conversion (in progress), and more. | Python 3.11, Tkinter, Pydub |
+| **[Bulk Media File Manager](https://github.com/rulingAnts/bulk_mediafile_manager)** | `rulingAnts/videoannotationtool` | A desktop tool for bulk operations on media files -- bulk copy with filename prefixes/suffixes, format conversion (in progress), and more. | Python 3.11, Tkinter, Pydub |
 
 ## 🚀 Finished (But Not Yet Fully Uploaded) Tools
 
